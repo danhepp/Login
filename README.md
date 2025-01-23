@@ -1,1 +1,1 @@
-# Um Sistema de Login utilizando jwl e autenticação de token.
+# Um Sistema de Login utilizando JWT e autenticação de token.
